@@ -2,7 +2,7 @@
 Data Analyst | SQL | Excel | Power BI | Python
 
 ## About me:
-- Certified in Data Analytics + Python
+- Certified in Data Analytics + Python 
 - Passionate about turning raw data into actionable insights
 - Building interactive dashboards and performing data driven analysis
 - Experienced in data cleaning, transformation and visualization
