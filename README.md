@@ -59,7 +59,7 @@ Data Storytelling: Highlights key trends to aid retention and workforce planning
 Skills Applied:
 Power BI, DAX, Data Visualization, Power Query, Data Cleaning, Storytelling
 
-[HRDashbaordPDF.pdf](https://github.com/user-attachments/files/21775376/HRDashbaordPDF.pdf)
+<img width="883" height="623" alt="Image" src="https://github.com/user-attachments/assets/6d7213ec-3bdf-4ef0-bf91-50620b1602b4" />
 
 📍 2. Employee & Project Data Analysis
 
@@ -83,6 +83,8 @@ Aggregated total project costs per employee.
 Skills Applied:
 Python, Data Cleaning, Data Merging, Calculated Fields, Pandas, NumPy
 
+[PythonProject (2).zip](https://github.com/user-attachments/files/21775452/PythonProject.2.zip)
+
 📍 3. ShopNest Store Analysis – Power BI Dashboard
 
 📅 Mar 2025 – Present
@@ -105,6 +107,8 @@ Delivery Performance (On-Time vs Delayed)
 Skills Applied:
 Power BI, Data Modeling, Power Query, DAX, Visualization, Trend Analysis
 
+<img width="1182" height="676" alt="Image" src="https://github.com/user-attachments/assets/2af1405e-1919-4f03-a0f3-abd9835634e4" />
+
 🎓 Education
 
 Osmania University, Hyderabad: Masters in Business Administartion(Finance) (2021-2023)
@@ -114,7 +118,10 @@ Andhra Mahila Sabha College: Bachelors in Commerce(Computer Science) (2017-2020)
 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the one I have:
 
-Data Analytics + Python(July 2025)(Skillovilla)
+Data Analytics + Python(July 2025)(Skillovilla) 
+
+<img width="505" height="680" alt="Image" src="https://github.com/user-attachments/assets/7ef7dc9d-8f74-4e6a-82c9-bf8f2fdb09f8" />
+
 
 📬 Contact
 
