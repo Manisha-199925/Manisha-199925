@@ -1,4 +1,4 @@
-👩‍💻 Manisha Malathkar – Data Analyst Portfolio
+#👩‍💻 Manisha Malathkar – Data Analyst Portfolio
 
 📌 About Me
 
@@ -58,6 +58,8 @@ Data Storytelling: Highlights key trends to aid retention and workforce planning
 
 Skills Applied:
 Power BI, DAX, Data Visualization, Power Query, Data Cleaning, Storytelling
+
+[HRDashbaordPDF.pdf](https://github.com/user-attachments/files/21775376/HRDashbaordPDF.pdf)
 
 📍 2. Employee & Project Data Analysis
 
