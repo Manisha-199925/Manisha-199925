@@ -1,4 +1,5 @@
 👩‍💻 Manisha Malathkar – Data Analyst Portfolio
+
 📌 About Me
 
 Hi, I'm Manisha Malathkar, a certified data analyst passionate about turning raw data into actionable insights. With hands-on experience in data cleaning, transformation, and visualization, I thrive on solving business problems using data.
@@ -6,6 +7,7 @@ Hi, I'm Manisha Malathkar, a certified data analyst passionate about turning raw
 I’m well-versed in tools like SQL, Python, Power BI, and Excel, and I enjoy building interactive dashboards and uncovering data-driven stories that inform smarter decisions. Currently, I’m actively growing my portfolio by applying my skills to real-world datasets and business scenarios.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
 
 Table of Contents
 
