@@ -9,7 +9,7 @@ I’m well-versed in tools like SQL, Python, Power BI, and Excel, and I enjoy bu
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 
-Table of Contents
+# Table of Contents
 
 🔹 About
 
